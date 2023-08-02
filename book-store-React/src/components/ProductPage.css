@@ -1,0 +1,11 @@
+
+.product-page {
+    padding: 20px 10%;
+}
+
+.product-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px , 1fr));
+    grid-column-gap: 30px;
+    grid-row-gap: 60px;
+}

@@ -1,0 +1,12 @@
+.todo__container {
+  margin-top: 100px;
+  width: 350px;
+}
+input {
+  flex: 1;
+}
+.btn-add,
+.btn-clear-all  {
+  background-color: #8d4ae9 !important;
+  border-color: #8d4ae9 !important;
+}
